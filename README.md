@@ -1,7 +1,7 @@
 ![hero](github.png)
 
 <p align="center">
-	<h1 align="center"><b>Midday</b></h1>
+	<h1 align="center"><b>Aladdin</b></h1>
 <p align="center">
     Your AI-Powered Business Assistant
     <br />

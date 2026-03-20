@@ -3,7 +3,7 @@
 <p align="center">
 	<h1 align="center"><b>Aladdin</b></h1>
 <p align="center">
-    Your AI-Powered Business Assistant
+    Aladdin
     <br />
     <br />
     <a href="https://midday.ai">Website</a>

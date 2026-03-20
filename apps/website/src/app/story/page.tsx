@@ -34,7 +34,7 @@ export default function StoryPage() {
             {/* Title */}
             <div className="space-y-4 text-center">
               <h1 className="font-serif text-3xl lg:text-3xl xl:text-3xl 2xl:text-3xl 3xl:text-4xl leading-tight lg:leading-tight xl:leading-[1.3] text-foreground">
-                Why we started Midday
+                Why we started Aladdin
               </h1>
             </div>
 

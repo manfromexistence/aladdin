@@ -90,7 +90,7 @@ const features = [
   {
     title: "Understand what's happening",
     subtitle:
-      "Midday explains changes in cash, revenue, and spending as they happen.",
+      "Aladdin explains changes in cash, revenue, and spending as they happen.",
     mobileSubtitle: "See what's changing and why.",
     illustration: "animation",
   },
@@ -107,7 +107,7 @@ const videos = [
   {
     id: "overview",
     title: "Overview",
-    subtitle: "See how Midday helps you run your business without the admin.",
+    subtitle: "See how Aladdin helps you run your business without the admin.",
     url: "https://cdn.midday.ai/videos/login-video.mp4",
   },
   {
@@ -315,7 +315,7 @@ export function StartPage() {
                 </h1>
 
                 <p className="text-muted-foreground text-base lg:text-lg leading-relaxed font-sans max-w-xl mx-auto">
-                  Midday takes care of admin, matches receipts automatically,
+                  Aladdin takes care of admin, matches receipts automatically,
                   gives you financial clarity and exports cleanly to your
                   accountant.
                 </p>
@@ -369,7 +369,7 @@ export function StartPage() {
               >
                 <Image
                   src="https://cdn.midday.ai/video-poster-v2.jpg"
-                  alt="Midday dashboard preview"
+                  alt="Aladdin dashboard preview"
                   fill
                   fetchPriority="high"
                   quality={50}

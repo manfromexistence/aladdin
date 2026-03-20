@@ -150,7 +150,7 @@ export function Footer() {
           {/* Right Column - Tagline & Compliance */}
           <div className="flex flex-col items-start lg:items-end gap-6 lg:gap-10">
             <p className="font-sans text-base sm:text-xl text-foreground text-left lg:text-right">
-              Run your company. Not the admin.
+              Run your business smarter with Aladdin.
             </p>
 
             {/* Compliance Section */}

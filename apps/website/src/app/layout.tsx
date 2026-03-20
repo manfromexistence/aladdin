@@ -34,17 +34,17 @@ const hedvigSerif = Hedvig_Letters_Serif({
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "Run your business finances without manual work | Midday",
-    template: "%s | Midday",
+    default: "Run your business finances without manual work | Aladdin",
+    template: "%s | Aladdin",
   },
   description:
-    "Midday gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
+    "Aladdin gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
   openGraph: {
-    title: "Run your business finances without manual work | Midday",
+    title: "Run your business finances without manual work | Aladdin",
     description:
-      "Midday gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
+      "Aladdin gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
     url: baseUrl,
-    siteName: "Midday",
+    siteName: "Aladdin",
     locale: "en_US",
     type: "website",
     images: [
@@ -61,9 +61,9 @@ export const metadata: Metadata = {
     ],
   },
   twitter: {
-    title: "Run your business finances without manual work | Midday",
+    title: "Run your business finances without manual work | Aladdin",
     description:
-      "Midday gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
+      "Aladdin gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
     images: [
       {
         url: "https://cdn.midday.ai/opengraph-image-v1.jpg",
@@ -100,7 +100,7 @@ export const viewport = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Midday",
+  name: "Aladdin",
   url: "https://midday.ai",
   logo: "https://cdn.midday.ai/logo.png",
   sameAs: [
@@ -109,7 +109,7 @@ const jsonLd = {
     "https://linkedin.com/company/midday-ai",
   ],
   description:
-    "Midday gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
+    "Aladdin gives you one place for transactions, receipts, invoices and everything around your business finances without manual work.",
 };
 
 export default function Layout({ children }: { children: ReactElement }) {
